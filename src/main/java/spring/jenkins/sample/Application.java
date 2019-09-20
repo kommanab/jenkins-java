@@ -19,9 +19,5 @@ public class Application {
 		return "Spring Jenkins is UP";
 	}
 	
-	public void test() {
-		
-		String name="Saurabh Delh Dei";
-		System.out.println("Added fcode for jenkins demo");
-		}
+	
 }
