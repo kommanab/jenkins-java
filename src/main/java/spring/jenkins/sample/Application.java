@@ -19,7 +19,7 @@ public class Application {
 		return "Spring Jenkins is UP";
 	}
    public void test()	 {
-	   String name = "Naga Bharath Reddy Komma";
+	   String name = "Naga Bharath Redddy Komma";
 	   System.out.println("Added fcode for jenkins");
    }
 	
